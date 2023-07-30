@@ -1,8 +1,4 @@
 # Welcome
-
-This is the repository of my Youtube video where I explained about type-graphql.
-You can check this video here: https://www.youtube.com/watch?v=1gqa0eQ8uSM&t=695s
-
 # Running the project. 
 
 First, you must have to have a mongo image running. I use to use docker to help me with it. So, I recommend you to also use docker.
