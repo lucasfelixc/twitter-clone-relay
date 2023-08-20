@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "6965CF1C-0151-44B9-9C65-82E9B980864A",
+      "title": "Post 1",
+      "body": "Body 1"
+    },
+    {
+      "id": "83CCF359-8D9A-41E7-AF0A-E842D1B5EA73",
+      "title": "Post 2",
+      "body": "Body 2"
+    },
+    {
+      "id": "73EBD4E9-17AB-4FA9-93AC-4D45CCC8F647",
+      "title": "Post 3",
+      "body": "Body 3"
+    },
+    {
+      "id": "6775C285-EF9E-4EE2-A273-C2F7C488F0DF",
+      "title": "Post 4",
+      "body": "Body 4"
+    }
+  ]
+}
